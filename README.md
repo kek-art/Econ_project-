@@ -1,10 +1,19 @@
 
-### Problem Statement ![Image](ttps://www.epicentrofestival.com/wp-content/uploads/2019/12/Collection-Of-Art-Clipart-Transparent-Clip-Art-Paint-Brush-720x814.jpg)
+### Problem Statement 
+
 Proponents of art claim that it has several intangible benefits for communities invest in it. They claim art has the power to “transform minds, boost civic pride, improve mental and emotional wellbeing and instill hope in all citizens.”  But do these intangible effects actually translate into quantitative measures? 
+
+
 ### Relevenace 
 There is some evidence that art can help combat some of the driving forces behind violent crime. However, the bulk of research is primarily focused on “individual-level effects of arts intervention programs on high-risk or justice-involved population, with the bulk of the literature focusing on youth.”  This means that while there is some evidence that arts are associated with reductions in violent crime, there is a lack of quantitative evaluation of art and violent crime at the county level.  
+
+
+
 ### Data and Methodology 
-I constructed a panel of county-level arts occupational data from the Bureau of Labor Statistics (BLS). I also used county analytic data came from County Health Rankings (CHR) which is a project of the Robert Wood Johnson Foundation and University of Wisconsin. I applied several regression models to the data in order to get a better understanding of the statistical association between arts employment and county violent crime rates. 
+I constructed a panel of county-level arts and analytic data. I used arts occupational data from the Bureau of Labor Statistics (BLS). My control variables, and dependent varible came from County Health Rankings (CHR) which is a project of the Robert Wood Johnson Foundation and University of Wisconsin. I applied several regression models to the data in order to get a better understanding of the statistical association between arts employment and county violent crime rates. 
+
+
+
 ### Visualizing Key Results 
 
 <div class='tableauPlaceholder' id='viz1606085792972' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DataVisualization_16058059422160&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DataVisualization_16058059422160&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DataVisualization_16058059422160&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>              
