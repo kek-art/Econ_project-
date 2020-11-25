@@ -24,11 +24,16 @@ Violent crime in the United States has seen a sustained drop over the last two d
 1. nonhispanicafricanamerican, hispanic and nonhispanicwhite: percentage breakdowns of ethnicity in a population
 ## Methodology 
 
+I constructed a panel of county-level data and applied several regression models to the data in order to get a better understanding of the statistical association between arts employment and county violent crime rates. 
 
-
-I constructed a panel of county-level arts and analytic data. I used arts occupational data from the Bureau of Labor Statistics (BLS). My control variables, and dependent varible came from County Health Rankings (CHR) which is a project of the Robert Wood Johnson Foundation and University of Wisconsin. I applied several regression models to the data in order to get a better understanding of the statistical association between arts employment and county violent crime rates. 
-
-
+1. Scatter
+  1. Observe a small negative correlation (see visualizing key results) 
+1. Hausman 
+    1. I rejected the random effects model because there was evidence that the difference between counties were correlated with the independent variables 
+1. Fixed Effects 
+    1. Just Employment
+    1. Just Establishments 
+    1. Both Employment and Establishments 
 
 ## Visualizing Key Results 
 
