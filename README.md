@@ -12,7 +12,7 @@ Violent crime in the United States has seen a sustained drop over the last two d
 ## Data and Methodology 
 ### Bureau of Labor Statistics (BLS)
 1. newest 
-2.avgempl 
+1. avgempl 
 ### County Health Rankings (CHR)
 I constructed a panel of county-level arts and analytic data. I used arts occupational data from the Bureau of Labor Statistics (BLS). My control variables, and dependent varible came from County Health Rankings (CHR) which is a project of the Robert Wood Johnson Foundation and University of Wisconsin. I applied several regression models to the data in order to get a better understanding of the statistical association between arts employment and county violent crime rates. 
 
