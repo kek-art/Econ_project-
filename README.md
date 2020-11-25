@@ -9,11 +9,23 @@ Proponents of art claim that it has several intangible benefits for communities 
 Violent crime in the United States has seen a sustained drop over the last two decades.  The causes of this drop “are still largely unknown.”  However, it is largely agreed that there are several neighborhood-level risk factors that can contribute to violent crime such as “poverty rates, residential mobility, ethnic heterogeneity, and weak social networks.”  There is some evidence that art can help combat some of the driving forces behind violent crime. This evidence comes primarily from research focused on “individual-level effects of arts intervention programs on high-risk or justice-involved population, with the bulk of the literature focusing on youth.”  This does not prevent proponents of arts programs from touting art and performances as “effective ways to prevent or reduce crime.”   
 
 
-## Data and Methodology 
+## Data 
 ### Bureau of Labor Statistics (BLS)
-1. newest 
-1. avgempl 
+1. newest :the average number of new independent art, writing, and performance establishments per 1,000 people 
+1. avgempl the annual number of persons employed as independent artists, writers, and performers per 1,000 people
 ### County Health Rankings (CHR)
+1. violentcrime: is the number of reported crime offenses for 100,000 of the population
+1. medianhouseholdincome: median income at the county level per year
+1. highschoolgraduation: percentage of the ninth-grade cohort that graduates from high school in four years
+1. unemployment: rate of population over 16 not currently employed but looking for employment
+1. foodinsecurity: rate of households that experience “a lack of access, at times, to enough food for an active, healthy life for all household members and limited or uncertain availability of nutritionally adequate foods
+1. severehousingproblems: percentage of households with one or more of the following problems: lacking complete kitchen facilities, plumbing facilities, overcrowding, or severely cost burdened
+1. socialassociations: number of membership associations per 10,000 population
+1. nonhispanicafricanamerican, hispanic and nonhispanicwhite: percentage breakdowns of ethnicity in a population
+## Methodology 
+
+
+
 I constructed a panel of county-level arts and analytic data. I used arts occupational data from the Bureau of Labor Statistics (BLS). My control variables, and dependent varible came from County Health Rankings (CHR) which is a project of the Robert Wood Johnson Foundation and University of Wisconsin. I applied several regression models to the data in order to get a better understanding of the statistical association between arts employment and county violent crime rates. 
 
 
