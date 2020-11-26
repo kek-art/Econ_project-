@@ -63,5 +63,6 @@ I constructed a panel of county-level data and applied several regression models
 Based on my research there is no relationship between arts employment and violent crime. I think this is because art is a difficult concept to measure. 
 1. The data I used only captured the number of people employed formally in the arts as “independent artists, writers, and performers.” Much of art happens informally, and the data from the BLS only captures full time employment. 
 2. Does not capture part-time community arts programs, public art, or people who work in art-related-fields such as museum curators and educators.
+3. Possible support for new establishments being related to reduced violent crime, but need more evidence 
 ### Further Research 
 My research found no relationship between arts employment and violent crime and thus I cannot make any policy recommendations at this time. However, further research should be conducted using other measures such as number of public arts projects or community investment in the arts. 
