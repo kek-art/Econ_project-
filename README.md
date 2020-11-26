@@ -56,6 +56,7 @@ I constructed a panel of county-level data and applied several regression models
 
 ### Fixed Effects Regression Output 
 ![Fixed Effects](https://github.com/kek-art/Econ_project-/blob/main/Fixed%20Effects%20.jpg) 
+### Random Effects Regression Output 
 ![Random Effects](https://github.com/kek-art/Econ_project-/blob/main/Random%20Effects%20.jpg) 
 
 ## Policy Implications and Conclusion 
